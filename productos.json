@@ -1,0 +1,25 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "iPhone 16e",
+      "precio": "$14,999.00",
+      "categoria": "Telefono",
+      "imagen": "https://raw.githubusercontent.com/Andrea-Tavizon-1103/apple_imagenes_app_flutter/refs/heads/main/apple16e.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "AirPods Max",
+      "precio": "$12,999.00",
+      "categoria": "Audio",
+      "imagen": "https://raw.githubusercontent.com/Andrea-Tavizon-1103/apple_imagenes_app_flutter/refs/heads/main/airpods.jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "AirPods 4",
+      "precio": "$4.299.00",
+      "categoria": "Audio",
+      "imagen": "https://raw.githubusercontent.com/Andrea-Tavizon-1103/apple_imagenes_app_flutter/refs/heads/main/aid.jpeg"
+    }
+  ]
+}
