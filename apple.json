@@ -4,7 +4,7 @@
       "id": 1,
       "nombre": "iPhone 16e",
       "precio": "$14,999.00",
-      "categoria": "Telefono",
+      "categoria": "Teléfono",
       "imagen": "https://raw.githubusercontent.com/Andrea-Tavizon-1103/apple_imagenes_app_flutter/refs/heads/main/apple16e.webp"
     },
     {
